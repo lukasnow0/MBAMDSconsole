@@ -1,4 +1,4 @@
-package com.MBAMBS.DataCollection;
+package com.MBAMDS.DataCollection;
 
 public class Mother {
 
